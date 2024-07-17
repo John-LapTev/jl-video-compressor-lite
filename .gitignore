@@ -1,0 +1,19 @@
+# Ignore FFmpeg executables
+ffmpeg.exe
+ffprobe.exe
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+
+# Ignore build files
+build/
+dist/
+*.spec
+
+# Ignore system files
+.DS_Store
+Thumbs.db
