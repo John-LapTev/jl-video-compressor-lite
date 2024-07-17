@@ -1,5 +1,7 @@
 # JL Video Compressor Lite
 
+[English version](README_EN.md)
+
 JL Video Compressor Lite - это простое в использовании приложение для сжатия видеофайлов, разработанное на Python с использованием PyQt5 для графического интерфейса и FFmpeg для обработки видео.
 
 ## Особенности
